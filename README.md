@@ -34,7 +34,7 @@ Hi, I'm Chukwuemeka Ochuba, a software Developer 🚀 from Nigeria, currently, I
 <br />
 <br />
 
- !Chukwuemeka Ochuba's github stats](https://github-readme-stats.vercel.app/api?username=roseokpe&theme=dark&show_icons=true)
+ !Chukwuemeka Ochuba's github stats](https://github-readme-stats.vercel.app/api?username=donmark2k&theme=dark&show_icons=true)
 
 
 
