@@ -1,5 +1,5 @@
 
--->### Hey 👋🏽, Chukwuemeka Ochuba
+### Hey 👋🏽, Chukwuemeka Ochuba
 
 <a href="https://twitter.com/donmark2k">
   <img align="left" alt="Chukwuemeka Ochuba'  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
