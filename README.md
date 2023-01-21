@@ -1,5 +1,5 @@
 
-### Hey 👋🏽, Chukwuemeka Ochuba
+### Hey 👋🏽,I'm Chukwuemeka Ochuba
 
 <a href="https://twitter.com/donmark2k">
   <img align="left" alt="Chukwuemeka Ochuba'  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -35,7 +35,7 @@ Hi, I'm Chukwuemeka Ochuba, a software Developer 🚀 from Nigeria, currently, I
 <br />
 
 
-| ![Chukwuemeka Ochuba's github stats]<a href="https://github.com/donmark2k/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=donmark2k&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="chukwuemeka's github stats" /></a> | <a href="https://github.com/donmark2k/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donmark2ka&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ![Chukwuemeka Ochuba's github stats]<a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=donmark2k&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="chukwuemeka's github stats" /></a> | <a href="https://github.com/donmark2k/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donmark2ka&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
