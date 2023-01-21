@@ -35,15 +35,6 @@ Hi, I'm Chukwuemeka Ochuba, a software Developer 🚀 from Nigeria, currently, I
 <br />
 
 
-| ![Chukwuemeka Ochuba's github stats]<a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=donmark2k&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="chukwuemeka's github stats" /></a> | <a href="https://github.com/donmark2k/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donmark2ka&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-#### Top Repositories
+| <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=donmark2k&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="chukwuemeka's github stats" /></a> |
 
 
-<a href="https://github.com/donmark2k/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=donmark2k&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/donmark2k/donmark2k.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=donmark2k&repo=donmark2k.github.io&theme=buefy" />
-</a>
