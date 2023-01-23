@@ -11,7 +11,7 @@
 <br />
 <br />
 
-Hi, I'm Chukwuemeka Ochuba, a software Developer 🚀 from Nigeria, currently, I'm a student of Microverse. Beside's programming, I like singing, playng chess and meting new friends.
+Hi, I'm Chukwuemeka Ochuba, a software Developer 🚀 from Nigeria, currently, I'm a student of Microverse. Beside's programming, I like singing, playing chess and meeting new friends.
 
  
   
