@@ -34,7 +34,12 @@ Hi, I'm Chukwuemeka Ochuba, a software Developer 🚀 from Nigeria, currently, I
 <br />
 <br />
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=donmark2k&label=Profile%20views&color=0e75b6&style=flat" alt="donmark2k" /> </p>
+
  ![Chukwuemeka Ochuba's github stats](https://github-readme-stats.vercel.app/api?username=donmark2k&theme=dark&show_icons=true)
+ 
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=donmark2k&show_icons=true&locale=en&layout=compact" alt="donmark2k" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=donmark2k&" alt="donmark2k"/></p>
 
 
 
