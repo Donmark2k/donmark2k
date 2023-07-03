@@ -19,8 +19,8 @@ Hi, I'm Chukwuemeka Ochuba, a software Developer 🚀 from Nigeria, currently, I
 
 - 🌱 I’m currently learning JavaScript and getting better; 
 - 🤔 I’m open to new oportunities;
-- 💬 Ask me about anything;
-- 📫 How to reach me:chukwuemekavp@gmail.com;
+- 💬 Ask me about Web Development;
+- 📫 How to reach me: Mail(chukwuemekavp@gmail.com), Linkedin (https://www.linkedin.com/in/chukwuemeka-ochuba/);
 
 **Languages and Tools:**  
 
