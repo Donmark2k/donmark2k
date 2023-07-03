@@ -1,26 +1,17 @@
 
 ### Hey 👋🏽,I'm Chukwuemeka Ochuba
 
-<a href="https://twitter.com/donmark2k">
-  <img align="left" alt="Chukwuemeka Ochuba'  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/chukwuemeka-ochuba/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
 <br />
-<br />
-
-Hi, I'm Chukwuemeka Ochuba, a software Developer 🚀 from Nigeria, currently, I'm a student of Microverse. Beside's programming, I like singing, playing chess and meeting new friends.
-
  
-  
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning JavaScript and getting better; 
-- 🤔 I’m open to new oportunities;
-- 💬 Ask me about Web Development;
-- 📫 How to reach me: Mail(chukwuemekavp@gmail.com), Linkedin (https://www.linkedin.com/in/chukwuemeka-ochuba/);
+- 🤔 I’m open to opportunities to collaborate on new projects: JavaScript, React, and Ruby on Rails
+- 💬 Ask me about Web Development
+- 📫 How to reach me: [Mail](chukwuemekavp@gmail.com), [Linkedin](https://www.linkedin.com/in/chukwuemeka-ochuba/);
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: When in doubt, reboot
+-  🌱 Hobbies: chorister, likes playing chess
+
 
 **Languages and Tools:**  
 
