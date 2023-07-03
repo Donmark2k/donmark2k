@@ -23,13 +23,12 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <br />
-<br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donmark2k&label=Profile%20views&color=0e75b6&style=flat" alt="donmark2k" /> </p>
 
- ![Chukwuemeka Ochuba's github stats](https://github-readme-stats.vercel.app/api?username=donmark2k&theme=dark&show_icons=true)
- 
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=donmark2k&show_icons=true&locale=en&layout=compact" alt="donmark2k" /></p>
+[![Chukwuemeka Ochuba's github stats](https://github-readme-stats.vercel.app/api?username=donmark2k&show_icons=true&theme=radical)](https://github.com/donmark2k/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donmark2k&show_icons=true&theme=radical&layout=compact)](https://github.com/donmark2k/github-readme-stats)
+
  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=donmark2k&" alt="donmark2k"/></p>
 
