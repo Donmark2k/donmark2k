@@ -30,7 +30,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donmark2k&show_icons=true&theme=radical&layout=compact)](https://github.com/donmark2k/github-readme-stats)
 
  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=donmark2k&" alt="donmark2k"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=donmark2k&theme=radical" alt="donmark2k"/></p>
 
 
 
